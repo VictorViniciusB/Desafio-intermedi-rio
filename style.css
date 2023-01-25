@@ -6,9 +6,14 @@ body {
 
 #main {
   width: 626px; 
-  margin: auto;
+  margin: 0 auto 64px;
 }
 
+#main img {
+  width: 350px;
+  margin-bottom: 64px;
+  margin-top: 64px;
+}
 
 h1 {
   font-family: 'Dosis';
@@ -17,7 +22,7 @@ h1 {
   font-size: 32px;
   line-height: 40px;
 
-  margin-bottom: 64px;
+  margin-bottom: auto;
 
   color: #3F3D56;
 }
@@ -27,9 +32,32 @@ span, a {
   font-weight: bold;
 }
 
-p {
+p, #footer {
   color: #828282;
 
   font-size: 15px;
   line-height: 22px;
+}
+
+#footer a + a {
+  margin-left: 42px ;
+}
+
+#line { 
+  width: 391px;
+  height: 0px;
+
+  margin: 0 auto 42px;
+
+  border: 1px solid #ECEFF2;
+}
+
+#wave {
+  position: absolute;
+  width: 1920px;
+  height: 104px;
+  left: 0;
+  bottom: 0px;
+  
+
 }
