@@ -44,5 +44,5 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## 📧 Contato
 
-<p align="center">E-mail: victorvbprogramador@gmail.com</p>
-<p align="center">Linkedin: https://www.linkedin.com/in/victor-vinicius-9b0765263/</p>
+<p>E-mail: victorvbprogramador@gmail.com</p>
+<p>Linkedin: https://www.linkedin.com/in/victor-vinicius-9b0765263/</p>
